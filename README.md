@@ -1,4 +1,4 @@
-# ITI-Graduation-project
+# Adaptive Cruise Control connected to Infotainment System
 
 
 1-    General view of the system:
